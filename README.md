@@ -5,10 +5,10 @@
 - [Project Overview](#project-overview)
 - [Data sources](#data-sources)
 - [Tools Used](#tools-used)
-- [Data Cleaning / Preparation](#data-cleaning--preparation)
+- [Data Cleaning/Preparation](#data-cleaning)
 
 - [Exporatory Data Analysis](#exporatory-data-analysis)
-- [Results / Findings](#results--findings)
+- [Results/Findings](#results)
 - [Recommendation](#recommendation)
 - [Reference](#reference)
   
@@ -25,7 +25,7 @@ The dataset is collected from Flixable which is a third-party Netflix search eng
 - Pandas   
 - Matplotlib and Seaborn for data visualization
 
-## Data Cleaning /Preparation
+## Data Cleaning
 In the initial data preparation phase,I performed the following tasks : 
 1. Data loading and inspectation
 2. Handling missing values
@@ -44,7 +44,7 @@ Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset
 3. **Different Ratings Defined by Netflix:**
    - What are the different ratings defined by Netflix?
    - 
-## Results /Findings
+## Results 
 
 The Netflix dataset analysis reveals significant trends. The year 2019 stands out with the most releases, marking a pivotal moment in Netflix content production. Raúl Campos, Jan Suter, and Marcus Raboy lead in directorial contributions, emphasizing their impact on Netflix's diverse content landscape. The dataset's ratings, encompassing 'TV-MA,' 'R,' 'PG-13,' etc., showcase the platform's commitment to varied content suitability. The United States dominates TV show contributions, emphasizing its global influence. A concise bar graph illustrates the distribution of movies and TV shows, highlighting insights into content diversity. 
 ![Bar graph](https://github.com/PacalineN/Netflix-Data-Analysis-with-Python-Unveiling-Insights-and-Trends/assets/149051166/7cf723dc-8a28-4437-8ca3-189ec759e756)
