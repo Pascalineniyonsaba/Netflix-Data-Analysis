@@ -33,7 +33,7 @@ In the initial data preparation phase,I performed the following tasks :
 
 ## Exporatory Data Analysis
 
-Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset, uncovering patterns, trends, and insights. In this section, we explore various aspects of the dataset to gain a comprehensive understanding of the content available on Netflix, addressing key questions:
+Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset, uncovering patterns, trends, and insights. In this section, I explore various aspects of the dataset to gain a comprehensive understanding of the content available on Netflix, addressing key questions:
 
 1. **Release Trends Over the Years:**
    - In which year did the highest number of TV shows and movies release? (Visualized using a Bar Graph)
@@ -43,7 +43,7 @@ Exploratory Data Analysis (EDA) is crucial for understanding the Netflix dataset
 
 3. **Different Ratings Defined by Netflix:**
    - What are the different ratings defined by Netflix?
-   - 
+     
 ## Results 
 
 The Netflix dataset analysis reveals significant trends. The year 2019 stands out with the most releases, marking a pivotal moment in Netflix content production. Raúl Campos, Jan Suter, and Marcus Raboy lead in directorial contributions, emphasizing their impact on Netflix's diverse content landscape. The dataset's ratings, encompassing 'TV-MA,' 'R,' 'PG-13,' etc., showcase the platform's commitment to varied content suitability. The United States dominates TV show contributions, emphasizing its global influence. A concise bar graph illustrates the distribution of movies and TV shows, highlighting insights into content diversity. 
